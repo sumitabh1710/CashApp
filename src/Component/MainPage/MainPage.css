@@ -1,0 +1,13 @@
+.main_page {
+  background-color: #000;
+}
+
+.intro_phone {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.mobile_version {
+  transform: scale(0.5);
+}
